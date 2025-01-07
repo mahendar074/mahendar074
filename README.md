@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Supply Chain Management using Blockchain](https://github.com/mahendar074/Supply-Chain-Management-using-Blockchain)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahendar074](mahendar074)
+- 👨‍💻 All of my projects are available at (https://github.com/mahendar074)
 
 - 📫 How to reach me **mahendar0703@gmail.com**
 
